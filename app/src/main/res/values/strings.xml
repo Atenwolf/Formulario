@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FormularioVista</string>
+    <string name="borrar">Borrar</string>
+    <string name="visualizar">Visualizar</string>
+    <string name="apellido">Apellido:</string>
+    <string name="celular">Celular:</string>
+    <string name="direcci_n">Dirección:</string>
+    <string name="edad">Edad:</string>
+    <string name="fecha">Fecha:</string>
+    <string name="nombre">Nombre:</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="gridView" type="id" />
+    <item name="textNombre" type="id" />
+    <item name="textApellido" type="id" />
+    <item name="textDireccion" type="id" />
+    <item name="textEdad" type="id" />
+    <item name="textCelular" type="id" />
+    <item name="textFecha" type="id" />
+    <item name="textGenero" type="id" />
+    <item name="gridLayout" type="id" />
+    <item name="gridViewDatos" type="id" />
+</resources>
